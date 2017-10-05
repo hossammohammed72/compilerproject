@@ -1,9 +1,9 @@
 <h1>compilerproject</h2>
 <h2> language description</h2>
-<<h4>char</h4><span> = "a"|"b"|"c"|"d"|"e"|"f"|"g"|"h"|"i"|"j"|"k"|"l"|"m"|"n"|"o"|"p"|"q"|"r"|"s"|"t"|"u"|"v"|"w"|"x"|"y"|"z";</span>
+<h4>char</h4><span> = "a"|"b"|"c"|"d"|"e"|"f"|"g"|"h"|"i"|"j"|"k"|"l"|"m"|"n"|"o"|"p"|"q"|"r"|"s"|"t"|"u"|"v"|"w"|"x"|"y"|"z";</span>
 <h4>num</h4><span>  = "0"|"1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9";</span>
 <h4>operator<h4><span> = "+" | "_" | "/" | "*";</span>
-loperator</h4><span>= ">" | "<" | "==" | "&" | "!";</span>
+<h4>loperator</h4><span>= ">" | "<" | "==" | "&" | "!";</span>
 <h4>schar</h4><span> = "_" | "$";</span>
 <h4>assign</h4><span> = "=" ;</span>
 <h4>term</h4><span> = variable | num;</span>
