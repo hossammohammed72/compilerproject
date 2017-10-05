@@ -1,0 +1,14 @@
+<br>char = "a"|"b"|"c"|"d"|"e"|"f"|"g"|"h"|"i"|"j"|"k"|"l"|"m"|"n"|"o"|"p"|"q"|"r"|"s"|"t"|"u"|"v"|"w"|"x"|"y"|"z";</br>
+<br>num  = "0"|"1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9";</br>
+<br>operator = "+" | "_" | "/" | "*";</br>
+<br>loperator = ">" | "<" | "==" | "&" | "!";</br>
+<br>schar = "_" | "$";</br>
+<br>assign = "=" ;</br>
+<br>term = variable | num;</br>
+<br>variable = char,{char|num};</br>
+<br>exp = variable,assign,term,{oper,term},";";</br>
+<br>decl = "set",variable,"as","datatype",";";</br>
+<br>if-stat = "if","(",{booleanexp},")","{",{exp},"}";</br>
+<br>boolean-exp = (team|char),{lop,(term|char)};</br>
+
+
