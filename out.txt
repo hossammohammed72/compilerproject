@@ -1,0 +1,18 @@
+<dataType int>
+<word x>
+<assign =>
+<number 5>
+<terminal ;>
+<dataType int>
+<word y>
+<assign =>
+<number 6>
+<terminal ;>
+<dataType int>
+<word x1>
+<terminal ;>
+<dataType int>
+<word x2x>
+<terminal ;>
+<dataType int>
+error wrong format

@@ -1,0 +1,6 @@
+int x = 5 ; 
+int y = 6 ;
+int x1 ; 
+ int x2x;
+int 2y ; 
+int tamam ; 
