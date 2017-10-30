@@ -1,6 +1,13 @@
-int x = 5 ; 
-int y = 6 ;
-int x1 ; 
- int x2x;
+int x=5 5 ;
+int x = 5+5 ; 
+int x = 5 +y ; 
+
+int x ;  
+x ; 
+int ;
+int t ; 
+ y;
+int xkk ; 
+ int x@x;
 int 2y ; 
-int tamam ; 
+int tamaM ; 
