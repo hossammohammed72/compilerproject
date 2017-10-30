@@ -10,5 +10,4 @@
 <h4>variable </h4><span> = char,{char|num};</span>
 <h4>exp</h4><span> = variable,assign,term,{oper,term},";";</span>
 <h4>decl</h4><span> = "set",variable,"as","datatype",";";</span>
-<h4>if-stat</h4><span> = "if","(",{booleanexp},")","{",{exp},"}";</span>
 <h4>boolean-exp</h4><span> = (team|char),{lop,(term|char)};</span>
